@@ -5,6 +5,7 @@
 #write this data to the third file
 
 import pandas as pd
+import math
 
 
 # the list of csv sample files
